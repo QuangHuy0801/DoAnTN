@@ -1,0 +1,9 @@
+/* assets/button.css */
+.button-spacing {
+    margin-right: 10px; /* Khoảng cách giữa các nút */
+  }
+  
+  .button-spacing:last-child {
+    margin-right: 0; /* Không áp dụng khoảng cách cho nút cuối cùng */
+  }
+  

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EVIAppServer/src/main/java/com/example/EVIAppServer/entiry&apos; to &apos;entity&apos;" description="Rename resource &apos;entiry&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/EVIAppServer/entiry" name="entity" stamp="1717164708412" updateReferences="true"/>
+</session>

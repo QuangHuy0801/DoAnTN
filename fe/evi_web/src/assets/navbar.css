@@ -1,0 +1,23 @@
+.navbar {
+  transition: width 0.3s ease;
+}
+
+.navbar .nav-link {
+  padding: 10px 15px;
+  margin: 5px 0;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.navbar .nav-link:hover, .navbar .nav-link.active {
+  background-color: rgba(255,255,255,0.1);
+}
+
+.navbar .nav-link svg {
+  margin-right: 10px;
+}
+.navbar .navbar-brand {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
